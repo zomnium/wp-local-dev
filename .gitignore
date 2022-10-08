@@ -1,0 +1,5 @@
+wordpress/
+themes/
+plugins/
+database/
+.env
