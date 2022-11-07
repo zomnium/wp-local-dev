@@ -27,6 +27,7 @@ Apart from having different WP versions, you can also choose your PHP version on
 - Start up development server as a detached background process: `docker-compose up -d`
 - Turn off your development server, when running in the background: `docker-compose down`
 - Development server showing all container logs: `docker-compose up`, turn it off with `ctrl + c`
+- You can adjust the WordPress database prefix and debug mode from the env configuration file
 - Development server: http://127.0.0.1:8080
 - phpMyAdmin: http://127.0.0.1:1234
 
