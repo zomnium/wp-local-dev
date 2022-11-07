@@ -17,6 +17,7 @@ services:
       - ./wordpress:/var/www/html
       - ./themes:/var/www/html/wp-content/themes/
       - ./plugins:/var/www/html/wp-content/plugins/
+      - ./uploads:/var/www/html/wp-content/uploads/
 
   db:
     image: mariadb:10
