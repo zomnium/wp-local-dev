@@ -1,6 +1,6 @@
 # WordPress Local Development
 
-Easier not to have your *AMP development environment on global/OS level. Just having it as a Docker container in a project makes it easier to jump between versions and make adjustments per project.
+Easier not to have your \*AMP development environment on global/OS level. Just having it as a Docker container in a project makes it easier to jump between versions and make adjustments per project.
 
 Bonus is everything is scoped to the project, including the db and such. Makes it easier to snapshot, trash and/or restore things without touching other projects.
 
