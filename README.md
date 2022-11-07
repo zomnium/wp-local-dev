@@ -30,5 +30,6 @@ Apart from having different WP versions, you can also choose your PHP version on
 - You can adjust the WordPress database prefix and debug mode from the env configuration file
 - Development server: http://127.0.0.1:8080
 - phpMyAdmin: http://127.0.0.1:1234
+- MariaDB database: 127.0.0.1:3306
 
 Note: make sure to run the `docker-compose` commands from within your project directory.
