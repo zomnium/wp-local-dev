@@ -2,7 +2,7 @@
 
 Having one version of PHP or one database instance on your system is annoying and risky when working on multiple projects. Do you need a different WP or PHP version for one project? Did one project break another? Stop crying and use this Docker template.
 
-By just having a Docker environment per project it makes your lives easier, jump around between WP/PHP versions and make adjustments per project with ease. Create a snapshot, trash and/or restore things without touching your other projects.
+By just having a Docker environment per project it makes your life easier, jump around between WP/PHP versions and make adjustments per project with ease. Create a snapshot, trash and/or restore things without touching your other projects.
 
 ## What does it include?
 
