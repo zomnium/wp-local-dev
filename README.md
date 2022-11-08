@@ -46,3 +46,7 @@ This can be done in the `.env` file by switching the tag of the WordPress Docker
 ### Connect to the database with a database manager
 
 You can connect to your IP `127.0.0.1` on port `3306`.
+
+## Feedback
+
+Any thoughts for improvements or having some issues? Please let me know if you have any feedback by [creating an issue](https://github.com/zomnium/wp-local-dev/issues/new). Thanks!
