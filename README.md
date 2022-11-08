@@ -24,6 +24,7 @@ By just having a Docker environment per project it makes your life easier, jump 
 
 - Start the development server as a detached background process: `docker-compose up -d`
 - Turn off your development server, when running in the background: `docker-compose down`
+- Check if your server is running in the background? With `docker ps` you can see all running services
 - Development server showing all container logs: `docker-compose up`, exit with `ctrl + c`
 - You can adjust the WordPress database prefix and debug mode from the env configuration file
 - Development server: http://127.0.0.1:8080
