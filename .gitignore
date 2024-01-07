@@ -4,3 +4,4 @@ plugins/
 uploads/
 database/
 .env
+.DS_Store
